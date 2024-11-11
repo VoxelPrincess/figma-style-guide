@@ -1,18 +1,18 @@
-# Figma Style Guide
+## Figma Style Guide
 
-This repository contains the style guide for my portfolio project, designed to ensure consistency across all design elements.
+This repository contains a style guide for the Figma prototype project.
 
-## Features
+### Preview the Project
 
-- **Typography**: Utilizes DM Sans and Open Sans for headings and body text.
-- **Color Palette**: Includes complementary tones like #A150A5, #B83D64, and #C7B6E2 for a modern look.
-- **Icons**: Customized icons for streamlined navigation and aesthetics.
-- **Components**: Predefined styles for forms, lists, and image carousels.
+- Open the [Figma Style Guide](https://www.figma.com/design/Q2HjGBwTUAePMDwHQiX1iD/Style-Guide?t=0o4zagXMwZ2gnilt-1) to view the design elements and guidelines.
 
-## Purpose
+### Features
 
-Provides a unified framework for building visually appealing, responsive, and accessible designs.
+- Color palette
+- Typography
+- Icons
+- Logo design
 
-## Usage
+### Usage
 
-Feel free to adapt and expand this style guide for your own projects!
+Feel free to use or adapt this style guide for your own projects!
